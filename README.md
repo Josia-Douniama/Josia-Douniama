@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 
 - 👩‍💻 Currently an engineering student at EFREI Paris, in Network & Cloud Infrastructure Master 
-- 🔭 Interesting on stargazing, cryptos 
+- 🔭 Interesting in stargazing, cryptos 
 - 📚 Linux, psychology and fantasy books  
 - 💬 Ask me about everything, I will try to do my best 😊
 - 😄 Pronouns: girl behind the computer
