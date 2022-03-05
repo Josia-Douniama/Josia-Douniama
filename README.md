@@ -33,17 +33,17 @@
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge=appveyor&logo=kubernetes&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge=appveyor&logo=ansible&logoColor=white)&nbsp;
-![ReactJS](https://img.shields.io/badge/React.js-20232A?style=for-the-badge=appveyor&logo=react&logoColor=61DAFB)&nbsp;
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge=appveyor&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge=appveyor&logo=java&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge=appveyor&logo=bootstrap&logoColor=white)&nbsp;
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge=appveyor&logo=material-ui&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge=appveyor&logo=html5&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge=appveyor&logo=docker&logoColor=61DAFB)&nbsp;
+![Vagrant](https://img.shields.io/badge/Vagrant-35495E?style=for-the-badge=appveyor&logo=vagrant&logoColor=61DAFB)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge=appveyor&logo=terraform&logoColor=563D7C)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge=appveyor&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0081CB?style=for-the-badge=appveyor&logo=microsoft-azure&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge=appveyor&logo=python&logoColor=yellow)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge=appveyor&logo=css&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge=appveyor&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=appveyor&logo=github&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge=appveyor&logo=heroku&logoColor=white)&nbsp;
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge=appveyor&logo=google-cloud&logoColor=white)&nbsp;
+![Google Kurbenetes Engine](https://img.shields.io/badge/Google_Kurbenetes_Engine-4285F4?style=for-the-badge=appveyor&logo=google-cloud&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge=appveyor&logo=netlify&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge=appveyor&logo=Jenkins&logoColor=white)&nbsp;
     	
