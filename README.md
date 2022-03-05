@@ -1,4 +1,4 @@
-### Hello World 👋, I am Josia Douniama
+### Hello World 👋
 
 <!--
 **Josia-Douniama/Josia-Douniama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
