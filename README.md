@@ -20,15 +20,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
-
-<a href="mailto:josia.douniama.okana@efrei.net"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge=appveyor&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
-
-<a href="https://www.linkedin.com/in/josia-douniama/"><img src="https://img.shields.io/badge/-Josia%20Douniama-blue?style=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
-
-<a href="mailto:josiadounie@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge=appveyor&logo=gmail&logoColor=white" /></a> &nbsp;
-
-
 ## 💻 Workspace Spec
 
 ![Mac](https://img.shields.io/badge/MacOS-Zsh-blue?style=for-the-badge=appveyor&logo=apple&logoColor=pink)
@@ -41,7 +32,6 @@
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Languages & Platforms
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge=appveyor&logo=kubernetes&logoColor=white)&nbsp;
-
 ![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge=appveyor&logo=ansible&logoColor=white)&nbsp;
 ![ReactJS](https://img.shields.io/badge/React.js-20232A?style=for-the-badge=appveyor&logo=react&logoColor=61DAFB)&nbsp;
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge=appveyor&logo=vuedotjs&logoColor=4FC08D)&nbsp;
@@ -57,5 +47,11 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge=appveyor&logo=netlify&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge=appveyor&logo=Jenkins&logoColor=white)&nbsp;
     	
+
+## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
+
+<a href="mailto:josia.douniama.okana@efrei.net"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge=appveyor&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/josia-douniama/"><img src="https://img.shields.io/badge/-Josia%20Douniama-blue?style=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
+<a href="mailto:josiadounie@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge=appveyor&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
