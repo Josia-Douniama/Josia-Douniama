@@ -26,7 +26,7 @@
 
 ![Mac](https://img.shields.io/badge/MacOS-Zsh-blue)
 ![Debian](https://img.shields.io/badge/Linux-Debian-lightgrey?style=for-the-badge=appveyor&logo=linux&logoColor=87CF3E)
-![CentOS](https://img.shields.io/badge/CentOS-lightgrey?style=for-the-badge=appveyor&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-lightgrey?style=for-the-badge=appveyor&logo=debian&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge=appveyor&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge=appveyor&logo=windows&logoColor=white)
 
