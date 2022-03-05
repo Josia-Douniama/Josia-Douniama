@@ -26,6 +26,7 @@
 ![Debian](https://img.shields.io/badge/Linux-Debian-lightgrey?style=for-the-badge=appveyor&logo=linux&logoColor=87CF3E)
 ![CentOS](https://img.shields.io/badge/CentOS-lightgrey?style=for-the-badge=appveyor&logo=debian&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge=appveyor&logo=ubuntu&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-blue?style=for-the-badge=appveyor&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge=appveyor&logo=windows&logoColor=white)
 
 
@@ -39,13 +40,16 @@
 ![AWS](https://img.shields.io/badge/AWS-ED8B00?style=for-the-badge=appveyor&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0081CB?style=for-the-badge=appveyor&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge=appveyor&logo=python&logoColor=yellow)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge=appveyor&logo=css&logoColor=white)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-green?style=for-the-badge=appveyor&logo=shell&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge=appveyor&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge=appveyor&logo=github&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge=appveyor&logo=heroku&logoColor=white)&nbsp;
 ![Google Kurbenetes Engine](https://img.shields.io/badge/Google_Kurbenetes_Engine-4285F4?style=for-the-badge=appveyor&logo=google-cloud&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge=appveyor&logo=netlify&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge=appveyor&logo=Jenkins&logoColor=white)&nbsp;
+![VMware](https://img.shields.io/badge/VMware-lightgrey?style=for-the-badge=appveyor&logo=vmware&logoColor=white)&nbsp;
+![VirtualBox](https://img.shields.io/badge/VirtualBox-blue?style=for-the-badge=appveyor&logo=VirtualBox&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge=appveyor&logo=Grafana&logoColor=white)&nbsp;
+![Zabbix](https://img.shields.io/badge/Zabbix-red?style=for-the-badge=appveyor&logo=zabbix&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge=appveyor&logo=prometheus&logoColor=white)&nbsp;
+
     	
 
 ## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
