@@ -15,7 +15,7 @@
 - 🔭 Interesting in stargazing, cryptos 
 - 📚 Linux, psychology and fantasy books  
 - 💬 Ask me about everything, I will try to do my best 😊
-- 😄 Pronouns: girl behind the computer
+- 😄 Pronoun: girl behind the computer
 
 ## 💻 Workspace Spec
 
