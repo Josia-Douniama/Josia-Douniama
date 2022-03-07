@@ -55,4 +55,4 @@
 <a href="https://www.linkedin.com/in/josia-douniama/"><img src="https://img.shields.io/badge/-Josia%20Douniama-blue?style=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
 <a href="mailto:josiadounie@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge=appveyor&logo=gmail&logoColor=white" /></a> &nbsp;
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Josia-Douniama/Josia-Douniama/blob/main/ty-gif.svg" />
