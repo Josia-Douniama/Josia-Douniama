@@ -20,8 +20,9 @@
 ## 💻 Workspace Spec
 
 ![Mac](https://img.shields.io/badge/MacOS-Zsh-blue?style=for-the-badge=appveyor&logo=apple&logoColor=pink)
-![Debian](https://img.shields.io/badge/Linux-Debian-lightgrey?style=for-the-badge=appveyor&logo=linux&logoColor=87CF3E)
-![CentOS](https://img.shields.io/badge/CentOS-lightgrey?style=for-the-badge=appveyor&logo=debian&logoColor=red)
+![Linux](https://img.shields.io/badge/Linux-lightgrey?style=for-the-badge=appveyor&logo=linux&logoColor=87CF3E)
+![Debian](https://img.shields.io/badge/Debian-lightgrey?style=for-the-badge=appveyor&logo=debian&logoColor=red)
+![CentOS](https://img.shields.io/badge/CentOS-lightgrey?style=for-the-badge=appveyor&logo=redhat&logoColor=red)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge=appveyor&logo=ubuntu&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-blue?style=for-the-badge=appveyor&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge=appveyor&logo=windows&logoColor=white)
