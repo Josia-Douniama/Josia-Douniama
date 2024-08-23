@@ -1,17 +1,17 @@
 ### Hello World 🌎
 
 <!--
-**Josia-Douniama/Josia-Douniama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aude-Pédeprat/Aude-Pédeprat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### geant image : ![image](https://user-images.githubusercontent.com/60714463/156890317-3c0791ad-378a-448f-b86b-0ecf673a728c.png)
 
 -->
-
+Aude-Pédeprat
 
 
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 
-- 👩‍💻 Currently an engineering student at EFREI Paris, in Network & Cloud Infrastructure Master 
+- 👩‍💻 Cloud Architect  🌎
 - 🔭 Interesting in stargazing, cryptos 
 - 📚 Linux, psychology and fantasy books  
 - 💬 Ask me about everything, I will try to do my best 😊
@@ -47,6 +47,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge=appveyor&logo=Grafana&logoColor=white)&nbsp;
 ![Zabbix](https://img.shields.io/badge/Zabbix-red?style=for-the-badge=appveyor&logo=zabbix&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge=appveyor&logo=prometheus&logoColor=white)&nbsp;
+
 
     	
 
