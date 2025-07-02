@@ -6,8 +6,7 @@
 ### geant image : ![image](https://user-images.githubusercontent.com/60714463/156890317-3c0791ad-378a-448f-b86b-0ecf673a728c.png)
 
 -->
-Aude-Pédeprat
-
+Josia Douniama
 
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 
