@@ -11,7 +11,7 @@ Josia Douniama
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 
 - 👩‍💻 Cloud Architect  🌎
-- 🔭 Interesting in stargazing, cryptos 
+- 🔭 Interesting in stargazing, cryptos & roller ⛸️🛼 
 - 📚 Linux, psychology and fantasy books  
 - 💬 Ask me about everything, I will try to do my best 😊
 - 😄 Pronoun: girl behind the computer
